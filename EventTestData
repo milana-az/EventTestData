@@ -2,7 +2,7 @@
 {
   "Id": 1,
   "Name": "Dunavske jeseni folklora",
-  "Date": 17/9/2022,
+  "Date": "17/9/2022",
   "EventType": "Nastup",
   "City": "Pfungstadt",
   "Location": "Ringstraße 51, 64319 Pfungstadt, Deutschland",
@@ -11,7 +11,7 @@
 {
   "Id": 2,
   "Name": "Rocher Ethno Band",
-  "Date": 5/29/2022,
+  "Date": "5/29/2022",
   "EventType": "Koncert",
   "City": "Frankfurt",
   "Location": "Südbahnhof, Frankfurt, Deutschland",
@@ -20,7 +20,7 @@
 {
   "Id": 3,
   "Name": "Rade Šerbedžija",
-  "Date": 5/27/2022,
+  "Date": "5/27/2022",
   "EventType": "Koncert",
   "City": "Offenbach",
   "Location": "Capitol Theater, Offenbach, Deutschland",
@@ -29,7 +29,7 @@
 {
   "Id": 4,
   "Name": "Bijelo dugme",
-  "Date": 4/30/2022,
+  "Date": "4/30/2022",
   "EventType": "Koncert",
   "City": "Frankfurt",
   "Location": "Deutsche Bank Park, Frankfurt, Deutschland",
@@ -38,7 +38,7 @@
 {
   "Id": 5,
   "Name": "Srpsko vece",
-  "Date": 16/10/2022,
+  "Date": "16/10/2022",
   "EventType": "Koncert",
   "City": "Frankfurt",
   "Location": "Saalbau Bergen-Enkheim, Frankfurt, Deutschland",
@@ -47,7 +47,7 @@
 {
   "Id": 6,
   "Name": "Izlozba",
-  "Date": 10/2/2022,
+  "Date": "10/2/2022",
   "EventType": "Promocija",
   "City": "Frankfurt",
   "Location": "Galerija ABC, Frankfurt, Deutschland",
@@ -56,7 +56,7 @@
 {
   "Id": 7,
   "Name": "S.A.R.S German Tour 2022",
-  "Date": 15/10/2022,
+  "Date": "15/10/2022",
   "EventType": "Koncert",
   "City": "Frankfurt",
   "Location": "Das Bett, Frankfurt, Deutschland",
