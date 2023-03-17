@@ -4,6 +4,7 @@
   "Name": "Dunavske jeseni folklora",
   "Date": "2022-09-17",
   "EventType": "Nastup",
+  "Price": 10,
   "City": "Pfungstadt",
   "Location": "Ringstraße 51, 64319 Pfungstadt, Deutschland",
   "ImageUrl": "https://www.vesti-online.com/wp-content/uploads/2019/11/061114c7-1024x641.jpg"
@@ -13,6 +14,7 @@
   "Name": "Rocher Ethno Band",
   "Date": "2022-05-29",
   "EventType": "Koncert",
+  "Price": 29,
   "City": "Frankfurt",
   "Location": "Südbahnhof, Frankfurt, Deutschland",
   "ImageUrl": "https://scontent-frt3-1.xx.fbcdn.net/v/t39.30808-6/304973405_444985254315891_4944336463851383229_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=o-K9Bq_zDOkAX_a0ka8&_nc_ht=scontent-frt3-1.xx&oh=00_AT8FRnwEdVn7jDZulwSdukrLbS_EVjWgK3OIhlpsrE2k1g&oe=634446F6"
@@ -22,6 +24,7 @@
   "Name": "Rade Šerbedžija",
   "Date": "2022-05-27",
   "EventType": "Koncert",
+  "Price": 30,
   "City": "Offenbach",
   "Location": "Capitol Theater, Offenbach, Deutschland",
   "ImageUrl": "https://ulaznice.eu/wp-content/uploads/2022/04/ulaznice.eu-ofenb-.jpg"
@@ -31,6 +34,7 @@
   "Name": "Bijelo dugme",
   "Date": "2022-04-30",
   "EventType": "Koncert",
+  "Price": 45,
   "City": "Frankfurt",
   "Location": "Deutsche Bank Park, Frankfurt, Deutschland",
   "ImageUrl": "https://scontent-frt3-2.xx.fbcdn.net/v/t39.30808-6/274699314_10224312864923075_7063500061987286569_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=8HmWinXgEAAAX-j2lWz&_nc_ht=scontent-frt3-2.xx&oh=00_AT_AUdlVGN8ON4ak1c1e3w4JR4PJDEb0kDUdarL0tjFh7A&oe=6345FD36"
@@ -40,6 +44,7 @@
   "Name": "Srpsko vece",
   "Date": "2022-10-16",
   "EventType": "Koncert",
+  "Price": 20,
   "City": "Frankfurt",
   "Location": "Saalbau Bergen-Enkheim, Frankfurt, Deutschland",
   "ImageUrl": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/ab/ab1e3e80-2997-494a-9aae-6b3e09f0e8fd?rule=$_57.JPG"
@@ -49,6 +54,7 @@
   "Name": "Izlozba",
   "Date": "2022-10-02",
   "EventType": "Promocija",
+  "Price": 0,
   "City": "Frankfurt",
   "Location": "Galerija ABC, Frankfurt, Deutschland",
   "ImageUrl": "https://zlatibor.rs/sites/default/files/vest/20563/duskoradovic.jpg"
@@ -58,6 +64,7 @@
   "Name": "S.A.R.S German Tour 2022",
   "Date": "2022-10-15",
   "EventType": "Koncert",
+  "Price": 15,
   "City": "Frankfurt",
   "Location": "Das Bett, Frankfurt, Deutschland",
   "ImageUrl": "https://cdn-az.allevents.in/events4/banners/1f69c1ab2d23ee0bc6005cceda71f7e0ab671fec2a10084cab765a4442029f56-rimg-w960-h503-gmir.jpg?v=1665422500"
